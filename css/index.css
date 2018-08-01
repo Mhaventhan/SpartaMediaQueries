@@ -30,3 +30,20 @@ header, .experience {
 	border: 2px solid #E13A63;
 	padding: 10px;
 }
+
+@media screen and (max-width: 400px) {
+	#headshot{
+		border: none;
+	}
+	 header, .experience{
+		 border: none;
+	 }
+
+	 .right{
+		 float: left;
+		 width: 100%;
+		 display: block;
+	 }
+
+
+}
