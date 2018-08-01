@@ -3,16 +3,16 @@
   height: 200px;
   width: 300px;
 }
-
 .tile {
-	display: inline-block;
-	width: 30%;
-	margin-right: 3%;
-	margin-top: 25px;
-	text-align: center;
-	border: 2px solid #E13A63;
-	box-sizing: border-box;
+  display: inline-block;
+  width: 30%;
+  margin-right: 3%;
+  margin-top: 25px;
+  text-align: center;
+  border: 2px solid #E13A63;
+  box-sizing: border-box;
 }
+
 
 .tile img	{
 	display: block;
